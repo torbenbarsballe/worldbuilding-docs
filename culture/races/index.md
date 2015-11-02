@@ -20,7 +20,7 @@ the precursors to the modern human races. These are:
   * Æl'jinn: Elemental shapeshifters
   * Æl'mið: Northern miners, smiths, enchanters.
   * Æl'daal: Eastern humans.
-  * Æl'khal: Western empire.
+  * Æl'thal: Western empire.
   * Æl'xhal: Tribal islanders, closely related to the Æl'khal.
 
 ## Uon

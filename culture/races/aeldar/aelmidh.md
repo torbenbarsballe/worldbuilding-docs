@@ -1,7 +1,7 @@
 # Æl'mið 
 
 (Artificers - European)
-Northern; Norse/Celtic. Tall, strongly built with red or blond hair,
+Northern; Norse/Celtic. Tall, strongly built with red or blond hair (wavy),
 and blue, green, or purple eyes. Gifted smiths and enchanters, also
 great warriors; 
 
@@ -12,28 +12,28 @@ difficult.
 
 Basic warpaint enchantments:
 
-  Stoneskin
-  Flame cloak
-  Aura of cold
-  Antimagic Aura
+  * Stoneskin
+  * Flame cloak
+  * Aura of cold
+  * Antimagic Aura
 
-More advanced enchantments
+More advanced enchantments:
 
-  Regeneration/Healing
-  Enhanced Speed/Strength
-  Shield Spell
-  Rust Aura
-  Shapeshifting
-  Invisibility
-  Time Distortion
-  Illusion
-
+  * Regeneration/Healing
+  * Enhanced Speed/Strength
+  * Shield Spell
+  * Rust Aura
+  * Shapeshifting
+  * Invisibility
+  * Time Distortion
+  * Illusion
 
 Notable Æl'míð nations:
-Runesea Isles <drais'agean iles> - Specialist in tattoos
+
+* Runesea Isles <drais'agean iles> - Specialist in tattoos
 (Runeblooded <draisblodh>. Also refered to demeaning as
-scrivesblodh/scraelsblodh )
-Hollow mountains - Æl'míð and Æl'jinn city in a hollowed out mountain. More southerly than most Æl'míð cities.
-Drakkar - Barbarian clans
-Mountain strongholds - Best smiths.
+* scrivesblodh/scraelsblodh )
+* Hollow mountains - Æl'míð and Æl'jinn city in a hollowed out mountain. More southerly than most Æl'míð cities.
+* Drakkar - Barbarian clans
+* Mountain strongholds - Best smiths.
 
