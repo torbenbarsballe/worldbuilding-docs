@@ -3,6 +3,7 @@
 Aeldar. Symbolic script. Latin base.
 
 Glossary
+
 | Word          | Meaning |
 |---------------|---------|      
 | Dael          | God |
