@@ -1,39 +1,27 @@
 # Fauna
-  
-## Vertebrates
 
-### Mammals
+Fauna comprise the kingdom Anima. Members of this kingdom have some form of nervous system and are generally mobile. They gain energy by consuming other organisms.
+Anima consists of three phyla:
 
-Furred, warm blooded. Live births. Bilateral symetry.
+## Cercis (Jellies)
+Members of this phylum are radialy symmetric, and have a simple, redundant internal structure.
+This phylum includes jellyfish, squids and krakens, and wurms.
 
-### Birds
+## Concha (Shells)
+Members of concha are supported by an external skeleton and generally have a simple nervous system.
+This phylum includes insects and similar.
 
-Feathers, wings, warm blooded. Lays eggs. Bilateral symetry.
-
-### Hexapedes
-
-Six limbed, warm blooded. Lays eggs.  Bilateral symetry.
-
-### Fish
-
-Aquatic, scaled. Lays eggs.  Bilateral symetry.
-
-## Invertebrates
-
-### Shells
-
-External skeleton.
+## Spina (Vertebrates)
+Members of this phylum have a central spinal column, an internal skeleton, and are bilaterally symmetric. Members of Spina generally have a relatively complex physiology.
+This phylums includes serpentfish, lonfeather birds, raptors, and mamillians.
 
 
-### Jellies
-
-No skeleton. Radially symmetric.
+In addition to these three phyla, there are two additional classifications not associated with a phylum.
 
 ## Chimeras
 
-Magical created created by combining existing creatures. Have a
-relatively natural biologies. Some chimeras are fertile and have their
-own established species, others are unique and/or infertile.
+Magical created created by combining existing creatures. 
+Have a relatively natural biologies. Some chimeras are fertile and have their own established species, others are unique and/or infertile. Manticores are one example of an established chimera species
 
 ## Abberations
 

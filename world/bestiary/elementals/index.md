@@ -1,5 +1,17 @@
 # Elementals
 
+Elementals (kingdom Magia) are purely magical creatures created through spontaneous generation. Elementals vary greatly in size, and do not have any fixed lifespan.
+The size of an elemental is generally proportional to its power. Note that while dryads generally manifest a human-sized avatar, their size actually encompasses their entire domain (and hence dryads end to be quite powerful.
+Elementals are most common in areas of strong (natural) magic. Elementals are more likely to embody a place or process than an object or material – examples include:
+* Pollen Elemental (Air elemental that pollinates fields)
+* Avalance Elemental
+* Wandering River
+* Webspinner – Spiderweb elemental
+* Rust elemental
+* Rot Elemental – Wood and Flesh versions exist
+
+Elementals have a wide range of appearances and behaviors, and are organized into two phyla:
+
 ## Static magical phenomena:
 
 * Domains
