@@ -16,14 +16,14 @@ engineering were accomplished through magical means. By 10,000 BC, the
 Ældar civilization had divided into separate civilizations, which were
 the precursors to the modern human races. These are:
 
-  * Æl'fae: Nomadic natural shapeshifters
-  * Æl'jinn: Elemental shapeshifters
-  * Æl'mið: Northern miners, smiths, enchanters.
-  * Æl'daal: Eastern humans.
-  * Æl'thal: Western empire.
-  * Æl'xhal: Tribal islanders, closely related to the Æl'khal.
+  * [Æl'fae](./aeldar/aelfae): Nomadic natural shapeshifters
+  * [Æl'jinn](./aeldar/aeljinn): Elemental shapeshifters
+  * [Æl'mið](./aeldar/aelmidh): Northern miners, smiths, enchanters.
+  * [Æl'daal](./aeldar/aeldaal): Eastern humans.
+  * [Æl'thal](./aeldar/aelthal): Western empire.
+  * [Æl'xhal](./aeldar/aelxhal): Tribal islanders, closely related to the Æl'thal.
 
-## Uon
+## [Uon](./uon)
 
 The Uon diverged from the same common ancestor Ældar about 100,000
 years ago. Early in their evolution, the Uon developed potent
@@ -39,7 +39,7 @@ wiped out when an attempt to create an artificial god/racial power
 source. This caused a magical overload across the Uon race, and threw
 the magical energies of the region into chaos, creating the riftscape. 
 
-## Dragons
+## [Dragons](./dragons)
 
 Dragons look like large winged lizards. They have a long neck and tail,
 four legs with opposable claws on each foot, and a pair of batlike
@@ -75,14 +75,14 @@ Dragon Subspecies:
   * Western (Forest) Dragon
   * Tundra Dragon
 
-## High Elementals
+## [High Elementals](./high_elementals)
 
 High elementals refer to any elementals that can be considered sentient.
 
   * Gyldraed
   * Vyldarthe
 
-## Sprites
+## [Sprites](./sprites)
 
 Short lived, clever, but not highly intelligent (ie. Good 'street
 smarts' poor 'book learning'. Natural habitat is bogs, swamps or
