@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Home
 One hundered years ago, the Xuon continent was shattered by a great
 cataclysm, when the Uon atempted to birth an artifical god. This event
