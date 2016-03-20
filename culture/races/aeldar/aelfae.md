@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Æl'fae
 
 The original Æl'fae were a group of nomadic Ældar skilled in animal

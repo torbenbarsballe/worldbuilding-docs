@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Calender
 
 The unique cosmology of this world leads to an equally unique calender.

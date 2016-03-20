@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Evocation
 
 Evocation is the creation and absorption of matter and energy.

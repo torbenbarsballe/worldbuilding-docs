@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Necromancer County
 
 Founded by a three of journeyman mages who delved into necromancy. Most

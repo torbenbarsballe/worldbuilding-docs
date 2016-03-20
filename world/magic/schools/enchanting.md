@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Enchanting
 
 Enchanting the binding of magical effect into objects.

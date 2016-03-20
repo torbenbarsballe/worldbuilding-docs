@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Academy of Magical and Martial Arts
 
 One of the larges schools of magic on the western continent. Provides

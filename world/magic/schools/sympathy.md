@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Sympathy
 
 Sympathy the use relationships between physical things to enable other spellcasting.

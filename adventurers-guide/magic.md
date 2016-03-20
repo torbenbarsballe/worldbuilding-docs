@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Adventurer's Guide: Magic
 
 Non-magical or natural means of dealing with magical phenomena:

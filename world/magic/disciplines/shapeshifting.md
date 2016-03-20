@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Shapeshifting
 
 Shapeshifting is the transformation of ones body into a different form. Shapeshifting uses transmutation and sympathy. The simplest form of shapeshifting is altering one’s surface appearance as a form of disguise. This could be as simple as changing the length and color of ones hair, or as complex as completely changing one’s face and body shape. Another form of shapeshifting is transforming into an animal. This usually requires some part of the animal in question to act as a sympathetic focus, usually referred to a totem. Because shapeshifting obeys conservation of mass, animal forms that are similar in size to the shapeshifter are preferred.  Shapesifting into an animal usually causes the shapeshifter do gain many of the instincts of that animal. Because the alternate form of a shapeshifter is effectively a magical construct, if a shifted shapeshifter mates with an animal that shares their form, there is a high likelihood that the offspring will have some magical abilities:

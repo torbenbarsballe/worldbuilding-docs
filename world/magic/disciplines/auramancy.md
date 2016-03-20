@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Auramancy
 
 Auramancy refers to any usage of Animancy that manipulates the soul or essence of the living. The two major applications are Soultraveling and Soullinking.

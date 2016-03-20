@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Healing
 
 Healing is the use of magic to heal illness or injuries. Healing primarily uses sympathy, with some transmutation and channeling. Basic healing uses sympathy and transmutation to restore the body to the state it was in before the injury, similar to how shapeshifting works. This is most effective on minor injuries. More complex injures require more effort and guidance on the part of the healer to avoid complications, and as such rely more heavily on channeling and transmutation. 

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # High Elementals
 
 High elementals include all elementals that can be considered sapient.

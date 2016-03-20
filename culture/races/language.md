@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Language
 
 Aeldar. Symbolic script. Latin base.

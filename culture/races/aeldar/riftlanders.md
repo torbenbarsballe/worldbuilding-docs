@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Riftlanders
 
 Not realy a race per say, but rather retired soldiers (and their descendants) of the Uon war. 

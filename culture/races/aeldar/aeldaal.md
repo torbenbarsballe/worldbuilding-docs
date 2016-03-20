@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Æl'daal 
 
 (Eastern Humans - Mediteranean)

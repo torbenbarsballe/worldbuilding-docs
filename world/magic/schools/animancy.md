@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Animancy
 
 Animancy is the manipulation of an entities soul or life essence. 

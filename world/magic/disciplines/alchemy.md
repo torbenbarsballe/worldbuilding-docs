@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Alchemy
 
 Alchemy is essentially chemistry applied to natural and magical materials. It includes the creation of any materials with magical properties. While in many ways similar to enchanting, it differs in that Enchanting is the application of any given affect to some object, whereas Alchemy is the creation of some effect using the existing properties of various materials (Although many alchemists also use enchanting to enhance their products). Additionally, Alchemists do not need to have any magical skill, although magic (primarily sympathy and enchanting) can be used to identify, supplement, or enhance certain effects.

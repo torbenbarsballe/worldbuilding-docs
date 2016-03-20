@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Illusion
 
 Illusions allow one to deceive the senses of other beings in various ways. There are two approaches to illusion: 

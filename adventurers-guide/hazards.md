@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Adventurer's Guide: Hazards
 
 Necromancer Cults (Malevolent)

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Bestiary
 
 Most of the Flora and Fauna in this world have developed some magical abilities.

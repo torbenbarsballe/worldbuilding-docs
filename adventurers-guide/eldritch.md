@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Adventurer's Guide: Eldritch Entities and Artifacts
 
 Malevolent Ascended

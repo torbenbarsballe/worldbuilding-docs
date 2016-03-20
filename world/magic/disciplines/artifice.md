@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Artifice (Enchanting)
 
 Artifice refers to the creation of physical objects with magical properties, and is the primary application of the Enchanting school. There are three main types of artifacts:

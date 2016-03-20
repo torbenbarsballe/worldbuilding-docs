@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Sprites
 
 Sprites are 8-inch tall humanoids with insectlike wings. Both both butterfly-winged and dragonfly-winged variants exist, with the butterfly-winged Sprites commonly refered to as Faeries.

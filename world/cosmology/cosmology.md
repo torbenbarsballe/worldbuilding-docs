@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # World Cosmology
 
 Earth-centric, orbited by various celestial bodies all 1/10th the

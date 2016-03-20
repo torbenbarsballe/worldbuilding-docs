@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Scrying
 
 Scrying is the observation of that which is unseen or far away. 

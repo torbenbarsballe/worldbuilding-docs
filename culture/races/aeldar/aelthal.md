@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Æl'thal
 
 (Western Humans - Quasi-asian)

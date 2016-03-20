@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Encantation
 
 Encantation is the manipulation of Arcana (magical power) and Aether (magical media).

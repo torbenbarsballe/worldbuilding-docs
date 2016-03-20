@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Furies (Spirit Elementals)
 
 Furies (Spirit Elementals) are formed when a spirit fuses with an

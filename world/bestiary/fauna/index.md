@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Fauna
 
 Fauna comprise the kingdom Anima. Members of this kingdom have some form of nervous system and are generally mobile. They gain energy by consuming other organisms.

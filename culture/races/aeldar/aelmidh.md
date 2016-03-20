@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Æl'mið 
 
 (Artificers - European)

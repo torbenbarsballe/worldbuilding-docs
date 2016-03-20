@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Psionics
 
 Psionics is the reading and manipulation of the mind. 

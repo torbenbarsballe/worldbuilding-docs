@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Æl'jinn
 
 The Æl'jinn are a race of elemental shapeshifters. Similar to the

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Transmutation
 
 Transmutation is the transformation of matter and energy from one form into another. 

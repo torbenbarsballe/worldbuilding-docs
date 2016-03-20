@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Channelling
 
 Channeling is the transport of matter and energy from one place to

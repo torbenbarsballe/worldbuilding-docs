@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Rough Timeline
      ⊚	Major Events
       ∘	Minor Events

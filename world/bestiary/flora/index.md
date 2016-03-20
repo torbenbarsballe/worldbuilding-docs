@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Flora
 
 Flora includes all members of the kingdom Vita. Members of this kingdom generate energy through photosynthesis, have no nervous system and are generally immobile. Fauna reproduce sexually or asexually using seeds or spores.

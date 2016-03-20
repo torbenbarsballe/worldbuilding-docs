@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Elementals
 
 Elementals (kingdom Magia) are purely magical creatures created through spontaneous generation. Elementals vary greatly in size, and do not have any fixed lifespan.

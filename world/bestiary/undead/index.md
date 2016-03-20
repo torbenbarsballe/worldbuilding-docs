@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Undead
 
 In addition to elementals, there are a variety of magical entities
