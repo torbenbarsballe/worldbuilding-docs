@@ -44,61 +44,61 @@ Schools of Ethereal Magic are Scrying, Psionics, and Animancy. Arcane
 Magic involves the manipulation and usage of magic itself. The Schools
 of Arcane Magic are Encantation, Sympathy, and Enchanting.
 
-### Evocantion
+### [Evocantion](./schools/evocation)
 
 Evocation is the creation and absorption of matter and energy.
 
 Evocation is generally limited to small-scale effects, as all energy for the spell must come directly from Arcana. Evocation tends to be 'faster' to cast than comparable channeling or transmutation effects, and is therefore useful for reactive spells. 
 It is also useful for small effects that supplement more complex spells.
 
-### Channeling
+### [Channeling](./schools/chanelling)
 
 Channeling is the transport of matter and energy from one place to another. 
 
 Channeling is useful for focusing large but diffuse energy sources such as ambient heat, and for redirecting forces.
 More powerful spellcasters can use channeling for teleportation.
 
-### Transmutation
+### [Transmutation](./schools/transmutation)
 
 Transmutation is the transformation of matter and energy from one form into another. 
 
 Transmutation is often used for spells requiring a material that is not present, such as supplying fuel to a fireball spell. 
 Transmutation is also one of the primary components of shapeshifting. 
 
-### Scrying
+### [Scrying](./schools/scrying)
 
 Scrying is the observation of that which is unseen or far away. 
 
 It can be used to sense magic and energy, and see through walls or other barriers. 
 It can also be used to observe the past, present, future, or far away places.
 
-### Psionics
+### [Psionics](./schools/scrying)
 
 Psionics is the reading and manipulation of the mind. 
 
 Psionics can be used to view the thoughts or senses of another being, as well as project ones thoughts or senses into the mind of another being. 
 It can also be used to manipulate the minds of others.
 
-### Animancy
+### [Animancy](./schools/animancy)
 
 Animancy is the manipulation of an entity's soul or life essence. 
 
 It can be used to travel outside of one's body in an invisible and incorporeal form, to maintain ones identity when shapeshifting into another form, and to bind souls into other vessels.
 
-### Encantation
+### [Encantation](./schools/encantation)
 
 Encantation is the manipulation of Arcana (magical power) and Aether (magical media).
 
 It can be used to attract or repel Arcana, and to disrupt or nullify magical effects.
 
-### Sympathy
+### [Sympathy](./schools/sympathy)
 
 Sympathy the use relationships between physical things to enable other spellcasting.
 
 Sympathy can be used to link two similar objects, link part of an object with the rest of it, or link an object with its past or future. 
 It can be used to simplify many aspects of spellcasting, including targeting (for scrying or teleportation), templating (for physical tranmutation), or to reduce the arcana required by a spell by using a sympathetic focus of a material related to the effect of the spell.
 
-### Enchanting
+### [Enchanting](./schools/enchanting)
 
 Enchanting the binding of magical effect into objects. 
 
@@ -161,7 +161,7 @@ A mage specializing in telepathy is known as a Telepath or a Psion, and may be a
 Divination is the ability to see events at other places or times, and is the primary application of Scrying school. It is generally separated into Farsight (See other places), Postcognition (See the past), and Precognition (See into the future).
 A mage specializing in divination is known as a Diviner or a Seer, although Seer most commonly refers to a mage who is capable of seeing into the future. Diviners and Seers are equally likely to be an instinctive magic users learned magic users.
 
-### Artifice (Enchanting)
+### [Artifice](./disciplines/artifice) (Enchanting)
 
 Artifice refers to the creation of physical objects with magical properties, and is the primary application of the Enchanting school. 
 Mages specializing in artifice are known as Artificers and are generally learned mages.
@@ -184,18 +184,18 @@ This includes any form of repulsion of Arcana from an area, rendering anyone in 
 This discipline involves the disruption of Aether to stop a spell or destroy an enchantment.
 Because it requires a certain amount of knowledge of the behavior of magic, it favors learned magic. Mages specializing in this school of magic are known as Encanters or Arcanus.
 
-### Alchemy
+### [Alchemy](./disciplines/alchemy)
 
 Alchemy is essentially chemistry applied to natural and magical materials. It includes the creation of any materials with magical properties. While in many ways similar to enchanting, it differs in that Enchanting is the application of any given affect to some object, whereas Alchemy is the creation of some effect using the existing properties of various materials. Consequently, Alchemists do not need to have any magical skill, although magic (primarily sympathy and enchanting) can be used to identify, supplement, or enhance certain effects.
 Basic alchemy favors instinctive magic, and most nonmagical alchemists gradually develop some basic magical power, which manifests in the form of more powerful or more perfect substances.
 A mage specializing in alchemy is known as an Alchemist, or more specifically as a Metallurgist or an Herbalist. Metallurgists are most commonly learned mages while Herbalists are most commonly instinctive mages, although most Herbalists do have an extensive knowledge of the natural effects of all the ingredients they use.
 
-### Healing
+### [Healing](./disciplines/healing)
 
 Healing is the use of magic to heal illness or injuries. Healing primarily uses sympathy, with some transmutation and channeling. Basic healing uses sympathy and transmutation to restore the body to the state it was in before the injury, similar to how shapeshifting works. This is most effective on minor injuries. More complex injures require more effort and guidance on the part of the healer to avoid complications, and as such rely more heavily on channeling and transmutation. 
 Mages specializing in Healing are known as Healers and are usually learned mages.
 
-### Illusion
+### [Illusion](./disciplines/illusion)
 
 Illusions allow one to deceive the senses of other beings in various ways.
 Mages specializing in illusion are known as Illusionists, and are most often learned mages. Instinctive illusionists are more likely to use mental illusions than physical illusions.
@@ -211,7 +211,7 @@ Elementalism is Kinesis applied to a single element, (i.e. air, fire, water, or 
 
 Different forms of kinesis tend to be suited to different types of spellcasters: Elementalism is favored by more instinctive mages, whereas the more precise applications of kinesis such as flight or rapid projectiles are favored by learned mages. All forms of Kinesis tend to be relatively power intensive, and are usually used sparingly. A mage who specializes in Kinesis but does not use any single element is known as a Kinetic or a Telekinetic.
 
-### Shapeshifting
+### [Shapeshifting](./disciplines/shapeshifting)
 
 Shapeshifting is the transformation of ones body into a different form. This can include altering one’s surface appearance as a form of disguise, or transforming completely into another species. Mages who shapeshift frequently age at about half the rate they would age naturally.
 A mage who practices shapeshifting is known as a Shapeshifter.
@@ -221,13 +221,13 @@ A mage who practices shapeshifting is known as a Shapeshifter.
 Augemency is any application of the Chanelling school used to strengthen or enhance an object or entity. This school uses channeling to evenly distribute forces on an object to make it more durable or focus forces to a more precise location to make it more effective. This type of magic is useful for combat, making flesh and armor more durable while also making weapons more effective. It can also be used to enhance the strength, speed and durability of a person.
 Augumency is commonly combined with enchanting to make sharper weapons and more durable armor. A mage who practices Augumency is known as an Augumencer and is generally a learned mage.
 
-### Auramancy
+### [Auramancy](./disciplines/auramancy)
 
 Auramancy refers to any usage of Animancy that manipulates the soul or essence of the living. 
 It can be used to seperate a soul from a body, or to link two souls together.
 Mages who practice Auramancy are known as Auramancers, and can be instinctive or learned mages. Note that there are very few mages who solely practice Auramancy – most practitioners also have other magical skills. Many Necromancers are also skilled Auramancers. 
 
-### Necromancy
+### [Necromancy](./disciplines/necromancy)
 
 Necromancy refers to any usage of Animancy that manipulates the soul or essence of the (un)dead. Necromancy is primarily concerned with the reanimation of corpses or spirits.
 A mage specializing in necromancy is known as a Necromancer, and is generally a learned mage.

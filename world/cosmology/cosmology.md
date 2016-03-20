@@ -42,7 +42,7 @@ Durable, but explodes violently if damaged, releasing a burst of arcana.
 * Alkyne - Copper. Imprints/stores magical signatures. Orbital period of
 84 days. Orbits approx <> m from the planet. Sky diameter of 5.4'.
 
-The three lesser spheres come into convergence every 252 days.
+The three lesser spheres come into convergence every 252 days. The [Daes calender](./calender) is based upon this convergence.
 
 ???:
 

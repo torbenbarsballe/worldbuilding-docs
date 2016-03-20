@@ -32,11 +32,25 @@ This is the world of Dael.
 
 ## People and Cultures
 
-## Creatures
+### [Races](./culture/races)
 
-## Magic
+### [History](./culture/history/history)
+
+### [Organizations](./culture/organization)
+
+### [People](./culture/people)
+
+## [Creatures](./world/bestiary/)
+
+## [Magic](./world/magic)
 
 ## World
+
+### [Geography](./world/geography)
+
+### [Cosmology](./world/cosmology/cosmology) 
+
+### [Science](./world/science)
 
 
 
