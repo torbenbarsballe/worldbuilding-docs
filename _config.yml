@@ -17,6 +17,7 @@ github_username:  torbenbarsballe
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
 
 # deployment
 host: 0.0.0.0
