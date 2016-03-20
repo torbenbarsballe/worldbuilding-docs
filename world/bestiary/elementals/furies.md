@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /world/bestiary/elementals/furies
 ---
 
 # Furies (Spirit Elementals)

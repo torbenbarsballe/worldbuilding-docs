@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /adventurers-guide/magic
 ---
 
 Adventurer's Guide: Magic

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /world/bestiary/flora/
 ---
 
 # Flora

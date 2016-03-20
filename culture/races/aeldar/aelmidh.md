@@ -1,8 +1,9 @@
 ---
 layout: default
+permalink: /culture/races/aeldar/aelmidh
 ---
 
-# Æl'mið 
+# Ã†l'miÃ° 
 
 (Artificers - European)
 Northern; Norse/Celtic. Tall, strongly built with red or blond hair (wavy),
@@ -32,12 +33,12 @@ More advanced enchantments:
   * Time Distortion
   * Illusion
 
-Notable Æl'míð nations:
+Notable Ã†l'mÃ­Ã° nations:
 
 * Runesea Isles <drais'agean iles> - Specialist in tattoos
 (Runeblooded <draisblodh>. Also refered to demeaning as
 * scrivesblodh/scraelsblodh )
-* Hollow mountains - Æl'míð and Æl'jinn city in a hollowed out mountain. More southerly than most Æl'míð cities.
+* Hollow mountains - Ã†l'mÃ­Ã° and Ã†l'jinn city in a hollowed out mountain. More southerly than most Ã†l'mÃ­Ã° cities.
 * Drakkar - Barbarian clans
 * Mountain strongholds - Best smiths.
 

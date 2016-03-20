@@ -1,19 +1,20 @@
 ---
 layout: default
+permalink: /culture/races/aeldar/aeljinn
 ---
 
-# Æl'jinn
+# Ã†l'jinn
 
-The Æl'jinn are a race of elemental shapeshifters. Similar to the
-Æl'fae, they originated from an Ældar offshoot that primarily
-practiced elemental magic circa 1,000 BC. Early Æl'jinn were naturally
+The Ã†l'jinn are a race of elemental shapeshifters. Similar to the
+Ã†l'fae, they originated from an Ã†ldar offshoot that primarily
+practiced elemental magic circa 1,000 BC. Early Ã†l'jinn were naturally
 skilled at elemental magic, and often took elemental familiers. Over
-the course of many generations, the the magical skills of the Æl'jinn
+the course of many generations, the the magical skills of the Ã†l'jinn
 gradually became natural talents. The most prominent of these is the
-ability to transform their bodies into elemental forms. Modern Æl'jinn
+ability to transform their bodies into elemental forms. Modern Ã†l'jinn
 are humanoid, with strong elemental abilities and the ability to shift
 all or part of their form into some element. Most 'jinn retain a
-part-human, part-elemental form. Æl'jinn are highly intelligent, and
+part-human, part-elemental form. Ã†l'jinn are highly intelligent, and
 very long lived. While their human form ages at a slightly reduced
 natural rate, 'jinn do not age in their elemental form. Consequently,
 elder 'jinn tend to spend more and more time in their elemental forms,

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /world/cosmology/calender
 ---
 
 # Calender

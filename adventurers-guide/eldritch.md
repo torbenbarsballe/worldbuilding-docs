@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /adventurers-guide/eldritch
 ---
 
 # Adventurer's Guide: Eldritch Entities and Artifacts

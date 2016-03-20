@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /culture/organizations/necrocounty
 ---
 
 # Necromancer County

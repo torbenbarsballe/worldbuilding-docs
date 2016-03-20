@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /culture/races/
 ---
 
 
@@ -7,36 +8,36 @@ layout: default
 
 text
 
-## Ældar
+## Ã†ldar
 
-The Ældar were a race of magically gifted humans who originated about
+The Ã†ldar were a race of magically gifted humans who originated about
 200,000 years ago in central Eaos. lived between 100,000 and 10,000 BC.
-Ældar resembled stocky, swarthy humans with brown or black hair and
-eyes. The Ældar civilization rose to prominence on the southwestern
+Ã†ldar resembled stocky, swarthy humans with brown or black hair and
+eyes. The Ã†ldar civilization rose to prominence on the southwestern
 continent around 50,000 BC, and gradually spread across most of the
-known world. The Ældar civilization was primarily agricultural, and
+known world. The Ã†ldar civilization was primarily agricultural, and
 relied one stone or bronze tools. However, many advanced feats of
 engineering were accomplished through magical means. By 10,000 BC, the
-Ældar civilization had divided into separate civilizations, which were
+Ã†ldar civilization had divided into separate civilizations, which were
 the precursors to the modern human races. These are:
 
-  * Æl'fae: Nomadic natural shapeshifters
-  * Æl'jinn: Elemental shapeshifters
-  * Æl'mið: Northern miners, smiths, enchanters.
-  * Æl'daal: Eastern humans.
-  * Æl'thal: Western empire.
-  * Æl'xhal: Tribal islanders, closely related to the Æl'khal.
+  * Ã†l'fae: Nomadic natural shapeshifters
+  * Ã†l'jinn: Elemental shapeshifters
+  * Ã†l'miÃ°: Northern miners, smiths, enchanters.
+  * Ã†l'daal: Eastern humans.
+  * Ã†l'thal: Western empire.
+  * Ã†l'xhal: Tribal islanders, closely related to the Ã†l'khal.
 
 ## Uon
 
-The Uon diverged from the same common ancestor Ældar about 100,000
+The Uon diverged from the same common ancestor Ã†ldar about 100,000
 years ago. Early in their evolution, the Uon developed potent
 telepathic abilities that eventually defined their culture and
 appearance. Around 50,000 years ago, the Uon had developed a collective
 consciousness spanning their entire race, and the Uon physiology had
-become substantially different than that of the Ældar. Around 2000 BC,
-the rapidly growing civilizations of the Uon and the Æl'daal came into
-contact with one another. Conflict between the Uon and the Æl'daal
+become substantially different than that of the Ã†ldar. Around 2000 BC,
+the rapidly growing civilizations of the Uon and the Ã†l'daal came into
+contact with one another. Conflict between the Uon and the Ã†l'daal
 continued over the next 2000 years, with the Uon gradually gaining
 territory on the western continent. The Uon civilization was completely
 wiped out when an attempt to create an artificial god/racial power

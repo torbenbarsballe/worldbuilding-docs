@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /world/magic/disciplines/auramancy
 ---
 
 # Auramancy

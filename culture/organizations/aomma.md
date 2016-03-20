@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /culture/organizations/aomma
 ---
 
 # Academy of Magical and Martial Arts
