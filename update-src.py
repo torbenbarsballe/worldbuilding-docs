@@ -1,20 +1,23 @@
 import os
 import subprocess
 
-header = ""
-header += "---\n"
-header += "layout: default\n"
-header += "---\n"
+header = "layout: default\n"
 
 def proc_file(f):
   if (f.endswith(".md")):
+    permalink = f[1:]
+    if (f.endswith("index.md")):
+      permalink = permalink[:-8]
+    else:
+      permalink = permalink[:-3]
+
     sp = subprocess.Popen("git checkout master "+f, shell=True)
     sp.wait()
     fin = file(f, 'r')
     data = fin.read()
     fin.close()
     fout = file(f, 'w')
-    fout.write(header + "\n" + data)
+    fout.write("---\n"+header+"permalink: "+permalink+"\n"+"---\n"+"\n"+data)
     fout.close()
 
 def proc_folder(filelist, folder):
