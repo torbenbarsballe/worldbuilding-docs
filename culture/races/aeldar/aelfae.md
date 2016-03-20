@@ -1,18 +1,18 @@
-# Æl'fae
+# Ã†l'fae
 
-The original Æl'fae were a group of nomadic Ældar skilled in animal
-shapeshifting. Modern Æl'fae are nomadic natural shapeshifters, who can
-shapeshift between a human form and a single animal form. Æl'fae most
+The original Ã†l'fae were a group of nomadic Ã†ldar skilled in animal
+shapeshifting. Modern Ã†l'fae are nomadic natural shapeshifters, who can
+shapeshift between a human form and a single animal form. Ã†l'fae most
 often live in small family groups (5-15 individuals). A single family
 of 'fae will generally have the same or similar animal form. Lone
 'fae are also fairly common.
-Æl'fae have an average lifespan of 30-50 years. They reach physical
+Ã†l'fae have an average lifespan of 30-50 years. They reach physical
 maturity at age 9-10 if born in human form, or age 3-4 if born in
 animal form, although they do not reach their full size until around
 age 12 - 16 (regardless of birth form). They usually manifest
 shapeshifting abilities shortly before they reach physical maturity.
-All types of Æl'fae tend to adopt many of the mannerisms and behaviors
-of the animal forms they favor. Æl'fae do not have any spoken language.
+All types of Ã†l'fae tend to adopt many of the mannerisms and behaviors
+of the animal forms they favor. Ã†l'fae do not have any spoken language.
 Instead, they communicate using a complex combination of vocalizations
 and body language similar to that used by the forms they favor (with
 some modifications for expressing more complex concepts). This allows
@@ -26,18 +26,18 @@ to match whatever form they are in (although shapeshifting while in
 heat will generally retain such a state). Note that shapeshifting while
 pregnant is virtually impossible. Animal-form 'fae pregnancies tend to
 produce smaller litters than in natural animals. 
-Æ'fae social practices are usually modeled on those of the animal form
+Ã†'fae social practices are usually modeled on those of the animal form
 they favor, in part because human social practices are so varied.
 
-There are three main 'fae bloodlines, each originating from a different group of Ældar:
+There are three main 'fae bloodlines, each originating from a different group of Ã†ldar:
 
 ## Plains Tribes (Daal'fae)
 
-Originating from the Æl'daal, and inhabit the savannah and jungle
+Originating from the Ã†l'daal, and inhabit the savannah and jungle
 regions of central Eaos. Consist of various nomadic tribes, each with
 its own patron animal. Tribes include Jackal, Hyena, Gazelle, Deer and
 Lion. Daal'fae usually retain a mostly human form, which is similar in
-appearance to the ÆL'daal, but may have some animal characteristics
+appearance to the Ã†L'daal, but may have some animal characteristics
 such as antlers, slit-pupil eyes, fangs, or elongated ears
 They live in semi-nomadic tribes. As there are several different
 daal'fae bloodines, individual social structures vary. However, most
@@ -114,10 +114,10 @@ any local wild fae. There exist Daal'fae tribes of all of the major
 
 ## Wolf Clans
 
-Originating from the Æl'midh, inhabit the forested regions near the
-territories of the Æl'midh and the northerneastern reaches of the
-Æl'daal territories. Many of the clans have good relations with the
-local Æl'midh and Æl'daal. Wolf 'fae look similar to 'midh when in
+Originating from the Ã†l'midh, inhabit the forested regions near the
+territories of the Ã†l'midh and the northerneastern reaches of the
+Ã†l'daal territories. Many of the clans have good relations with the
+local Ã†l'midh and Ã†l'daal. Wolf 'fae look similar to 'midh when in
 their human form, but tend to be somewhat darker skinned. 
 Clans consist of a single extended family, with one primary mating pair
 (This equates to an Alpha couple, their parents and grandparents,
@@ -147,7 +147,7 @@ scarce. Wolf 'fae packs are comprised of 75% natural shapeshifters and
 
 ## Xhal'fae 
 
-Originating from the Æl'xhal, inhabit the jungle in the northwestern
+Originating from the Ã†l'xhal, inhabit the jungle in the northwestern
 reaches of Xuon and the nearby islands. Comprised of various feline
 tribes (jaguars, leopards, tigers). Most Xhal'fae take on a humanoid
 form, but with notable animal features. They are competent
@@ -207,7 +207,7 @@ High fae are incredibly powerful fae capable of taking any number of
 forms at will. High fae are effectively immortal due to their
 shapeshifting magic, and generally have no 'true' form, although often
 have a preferred form. High fae are quite rare, and most are from the
-age of the Ældar, before the modern fae tribes were formed, and as such
+age of the Ã†ldar, before the modern fae tribes were formed, and as such
 are rather different than modern fae. 
 
 

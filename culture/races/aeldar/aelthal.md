@@ -1,11 +1,11 @@
-# Æl'thal
+# Ã†l'thal
 
 (Western Humans - Quasi-asian)
 Pale to olive skin. Blond or platinum-blond hair (straight). Green, blue, or amber eyes.
-The Æl'thal are descended from an offshoot of the early Æl'midh that colonized the eastern continent about 20,000 years ago. The
-Æl'thal have a different physical appearance and language than the Æl'midh, but are physiologically quite similar.
+The Ã†l'thal are descended from an offshoot of the early Ã†l'midh that colonized the eastern continent about 20,000 years ago. The
+Ã†l'thal have a different physical appearance and language than the Ã†l'midh, but are physiologically quite similar.
 
-Æl'thal have natural magical talents towards kinesis, elementalism, and all etherial schools.
+Ã†l'thal have natural magical talents towards kinesis, elementalism, and all etherial schools.
 
-The Æl'thal empire is a hiearchical bueracracy, with rank primarily based on merit. 
+The Ã†l'thal empire is a hiearchical bueracracy, with rank primarily based on merit. 
 The empire has a large, strictly organized military, with a strong mage component.

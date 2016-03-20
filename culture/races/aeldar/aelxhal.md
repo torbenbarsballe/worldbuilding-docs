@@ -1,4 +1,4 @@
-# Æl'xhal
+# Ã†l'xhal
 
 (Aztec-Indonesian)
 Dark to olive skinned. Brown, blond or copper hair (Curly or wavy). Brown, green or amber eyes.
