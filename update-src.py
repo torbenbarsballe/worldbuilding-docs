@@ -8,7 +8,8 @@ header += "---\n"
 
 def proc_file(f):
   if (f.endswith(".md")):
-    subprocess.Popen("git checkout master "+f, shell=True)
+    sp = subprocess.Popen("git checkout master "+f, shell=True)
+    sp.wait()
     fin = file(f, 'r')
     data = fin.read()
     fin.close()
@@ -31,13 +32,17 @@ def proc_folder(filelist, folder):
       print("File: "+filepath+" does not exist")
 
 print("Updating source files from master")
-subprocess.Popen("git stash", shell=True)
-subprocess.Popen("git checkout master", shell=True)
+sp = subprocess.Popen("git stash", shell=True)
+sp.wait()
+sp = subprocess.Popen("git checkout master", shell=True)
+sp.wait()
 
 rootFiles = os.listdir("./")
 
-subprocess.Popen("git checkout gh-pages", shell=True)
-subprocess.Popen("git stash apply", shell=True)
+sp = subprocess.Popen("git checkout gh-pages", shell=True)
+sp.wait()
+sp = subprocess.Popen("git stash apply", shell=True)
+sp.wait()
 
 proc_folder(rootFiles, ".")
 
