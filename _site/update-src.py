@@ -39,6 +39,8 @@ sp = subprocess.Popen("git stash", shell=True)
 sp.wait()
 sp = subprocess.Popen("git checkout master", shell=True)
 sp.wait()
+sp = subprocess.Popen("git pull origin master", shell=True)
+sp.wait()
 
 rootFiles = os.listdir("./")
 
