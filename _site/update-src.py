@@ -19,21 +19,24 @@ def proc_file(f):
     fout = file(f, 'w')
     fout.write("---\n"+header+"permalink: "+permalink+"\n"+"---\n"+"\n"+data)
     fout.close()
-
-def proc_folder(filelist, folder):
-  for file in filelist:
-    filepath = folder + "/" + file
-    if (file.startswith(".")):
+      
+def find_files(folder):
+  contents = os.listdir(folder)
+  files = []
+  for f in contents:
+    filepath = folder + "/" + f
+    if (f.startswith(".")):
       print("Skipping "+filepath)
     elif os.path.isfile(filepath):
       print("Processing file: "+filepath)
-      proc_file(filepath)
+      files.append(filepath)
     elif os.path.isdir(filepath):
       print("Processing folder: "+filepath)
-      proc_folder(os.listdir(filepath), filepath)
+      files.extend(find_files(filepath))
     else:
       print("File: "+filepath+" does not exist")
-
+  return files
+  
 print("Updating source files from master")
 sp = subprocess.Popen("git stash", shell=True)
 sp.wait()
@@ -42,12 +45,12 @@ sp.wait()
 sp = subprocess.Popen("git pull origin master", shell=True)
 sp.wait()
 
-rootFiles = os.listdir("./")
+files = find_files('.')
 
 sp = subprocess.Popen("git checkout gh-pages", shell=True)
 sp.wait()
 sp = subprocess.Popen("git stash apply", shell=True)
 sp.wait()
 
-proc_folder(rootFiles, ".")
-
+for f in files:
+  proc_file(f)
