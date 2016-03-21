@@ -43,11 +43,11 @@ sp = subprocess.Popen("git pull origin master", shell=True)
 sp.wait()
 
 rootFiles = os.listdir("./")
+proc_folder(rootFiles, ".")
 
 sp = subprocess.Popen("git checkout gh-pages", shell=True)
 sp.wait()
 sp = subprocess.Popen("git stash apply", shell=True)
 sp.wait()
 
-proc_folder(rootFiles, ".")
 
