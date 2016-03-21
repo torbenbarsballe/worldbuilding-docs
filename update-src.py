@@ -23,9 +23,9 @@ def proc_file(f):
 def find_files(folder):
   contents = os.listdir(folder)
   files = []
-  for file in contents:
-    filepath = folder + "/" + file
-    if (file.startswith(".")):
+  for f in contents:
+    filepath = folder + "/" + f
+    if (f.startswith(".")):
       print("Skipping "+filepath)
     elif os.path.isfile(filepath):
       print("Processing file: "+filepath)
@@ -52,5 +52,5 @@ sp.wait()
 sp = subprocess.Popen("git stash apply", shell=True)
 sp.wait()
 
-for file in files:
-  proc_file(file)
+for f in files:
+  proc_file(f)
