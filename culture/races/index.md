@@ -16,10 +16,10 @@ engineering were accomplished through magical means. By 10,000 BC, the
 Ældar civilization had divided into separate civilizations, which were
 the precursors to the modern human races. These are:
 
+  * [Æl'daal](./aeldar/aeldaal): Eastern humans.
   * [Æl'fae](./aeldar/aelfae): Nomadic natural shapeshifters
   * [Æl'jinn](./aeldar/aeljinn): Elemental shapeshifters
   * [Æl'mið](./aeldar/aelmidh): Northern miners, smiths, enchanters.
-  * [Æl'daal](./aeldar/aeldaal): Eastern humans.
   * [Æl'thal](./aeldar/aelthal): Western empire.
   * [Æl'xhal](./aeldar/aelxhal): Tribal islanders, closely related to the Æl'thal.
 
