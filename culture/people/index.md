@@ -13,7 +13,7 @@ permalink: /culture/people/
   * [Æl'thal](#aelthal)
   * [Æl'xhal](#aelxhal)
   * [Mixed-blood](#aelmixed)
-* [Dragons](#Dragons)
+* [Dragons](#dragons)
 
 <h2 id="aeldar">Ældar</h2>
 
@@ -35,7 +35,9 @@ permalink: /culture/people/
 <h2 id="dragons">Dragons</h2>
 
 **Name:** Ironfire; Lord of Dragonspire Citadel
+
 **Race:** Male Plated Dragon
+
 **Appearance:** Dark orange scales, with a lighter underbelly and dark grey back. Bulbous tail, long wingtip claws and jaw spine. Red eyes.
 
 Hoarder of Minerals - mostly gold, silver and gemstones. Master of Dragonspire Citadel. Lends his fire to the forges in return for a tithe of the mines.
@@ -47,7 +49,9 @@ Exceptionally potent fire magic, capable of reaching temperatures in excess of 2
 ----------------
 
 **Name:** Queen of the Valley
+
 **Race:** Female Western Dragon
+
 **Appearance:** Gold and green scales. Exceptionally large and ornate antler-like horns
 
 Watches over a large valley, and discourages human exploitation and settlement.
@@ -56,7 +60,9 @@ Thousands of years old, and exceptionally wise and powerfull. Mostly ignores eve
 ----------------
 
 **Name:** Unknown
+
 **Race:** Male Spined Dragon
+
 **Appearance:** Nested pairs of curved horns.
 
 Hoarder of Knowledge, especially arcane knowledge, as well as some magical artefacts. Has an extensive library. Particulary skilled in magic, notably: Sorcery (Fire, Lightning), Scrying (Future Sight, Premonition, Psychometry, Farsight, Object Finding), Encantation (Spell redirection and cancellation).
@@ -66,7 +72,9 @@ Hoarder of Knowledge, especially arcane knowledge, as well as some magical artef
 ----------------
 
 **Name:** Unknown
+
 **Race:** Female Horned Dragon, Shapeshifter
+
 **Appearance:** Silvery scales, with a paler back and bluer underside. Bright purple eyes. Narrow horns.
 
 Horder of Power – Rather unique, as she has an almost entirely ephemeral horde. Collects political favors. Holds some high rank in almost all nations. A skilled shapeshifter, with many aliases across various races. Also a potent telepath.
@@ -78,7 +86,9 @@ Horder of Power – Rather unique, as she has an almost entirely ephemeral horde
 ##Template
 
 **Name:**
+
 **Race:** 
+
 **Appearance:** 
 
 
