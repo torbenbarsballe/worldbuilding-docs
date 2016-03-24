@@ -45,7 +45,7 @@ Daal'fae tribes are nomadic and matriarchal, with a somewhat dynamic
 membership. Most groups are polygamous, with few long-term
 relationships. 
 
-## Deer Tribes - Deer, Gazelle, Antelope, etc.
+### Deer Tribes - Deer, Gazelle, Antelope, etc.
 
 Deer tribes generally consist of a group of related females plus one or
 more mature males. In addition, the tribe includes all juveniles born
@@ -65,7 +65,7 @@ bamboo, and flint. They often harvest and cultivate wild plants,
 grains, and spices (saffron?) while browsing, and trade these with
 human settlements.
 
-## Lion Tribes
+### Lion Tribes
 
 Lion tribes are quite similar in composition to Deer tribes, consisting
 of a group of (usually related) females, their juvenile offspring and
@@ -79,7 +79,7 @@ settlement within their territory, generaly a fortified cave or network
 of treehouses. Lion 'fae tend to have much less contact with human
 settlements than Deer fae.
 
-## Hyena Tribes
+### Hyena Tribes
 
 Hyena 'fae form large tribes of related females and their offspring,
 plus several unrelated adult males. Hyena tribes are matriarchal, with
@@ -94,7 +94,7 @@ constructed from clay, packed earth, and/or wattle and daub, and
 consist of a network of interconnected rooms, trenches, and tunnels,
 generally below ground level. (Although some rooms are open to the air).
 
-## Canid Tribes - Jackals, Coyotes, and Red Wolves
+### Canid Tribes - Jackals, Coyotes, and Red Wolves
 
 Canid tribes consist of a single mating pair and their juvenile
 offspring. Unlike other Daal'fae tribes, Canids are monogamous. Canid
@@ -112,7 +112,7 @@ sometimes trade with humans. Daal'fae are generally on good terms with
 any local wild fae. There exist Daal'fae tribes of all of the major
 'fae bloodlines.
 
-## Wolf Clans
+## Wolf Clans (Mið'fae)
 
 Originating from the Æl'midh, inhabit the forested regions near the
 territories of the Æl'midh and the northerneastern reaches of the
@@ -145,7 +145,7 @@ excess meat to provide a backup food supply in the winter when prey is
 scarce. Wolf 'fae packs are comprised of 75% natural shapeshifters and
 25% direbeasts.
 
-## Xhal'fae 
+## Jungle Tribes (Xhal'fae)
 
 Originating from the Æl'xhal, inhabit the jungle in the northwestern
 reaches of Xuon and the nearby islands. Comprised of various feline
